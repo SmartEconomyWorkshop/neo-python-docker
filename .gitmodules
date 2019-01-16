@@ -1,0 +1,4 @@
+[submodule "neo-python"]
+	path = neo-python
+	url = git@github.com:SmartEconomyWorkshop/neo-python.git
+	branch = master
